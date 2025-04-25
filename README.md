@@ -1,7 +1,6 @@
 # AluraStoreBR
 Desafio para a formação de Cientista de Dados - Alura/ONE - Oracle Next Education
-# AluraStoreBR
-Desafio para a formação de Cientista de Dados - Alura/ONE - Oracle Next Education
+
 # Análise de Dados de Vendas de Lojas
 
 ## Descrição do Problema
